@@ -8,6 +8,10 @@ order: 1
 
 openGemini 历史版本发布声明如下：
 
+## 1.1
+
+- [v1.1.0rc0](./v1.1/1.1.0rc0.md): 2023-07-09
+
 ## 1.0
 
 - [v1.0.1](https://github.com/openGemini/openGemini/releases/tag/v1.0.1): 2023-03-30
